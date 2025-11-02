@@ -1,0 +1,10 @@
+name: pybamm_stable
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pybamm
+  - pandas
+  - numpy
+  - jupyterlab
+  - ipykernel
